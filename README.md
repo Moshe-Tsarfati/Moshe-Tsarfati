@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on QA testing projects
 - 📫 How to reach me: [**My Website**](http://www.moshecv.com),
   [**LinkedIn**](https://www.linkedin.com/in/moshe-tsarfati-5a9490208)
-- ✔ Open for positions in QA.
+- ✔ **Open for positions in QA**.
+- 📝 Hobbies: Basketball 🏀 | Playing Bouzouki 🎵
 <!---
 Moshe-Tsarfati/Moshe-Tsarfati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
